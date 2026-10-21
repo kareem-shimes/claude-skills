@@ -1,0 +1,6 @@
+[mcp_servers.tessl]
+command = "tessl"
+args = [
+    "mcp",
+    "start",
+]
